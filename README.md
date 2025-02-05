@@ -10,3 +10,15 @@ I made this node to solve a "problem" I was having, which was reading line by li
 The row_index starts at 0 (zero) which reads the first line of the file, and index 1 reads the second line and so on.
 
 Feel free to modify it :)
+
+
+![alt text](https://i.ibb.co/xtXwj3y9/Screenshot-5.png)
+
+![alt text](https://i.ibb.co/2wf0J5j/Screenshot-6.png)
+
+![alt text](https://i.ibb.co/XxQVMYMF/Screenshot-7.png)
+
+
+=======================================================================
+
+Credits: 95% ChatGPT/DeepSeek | 5% me >.<
