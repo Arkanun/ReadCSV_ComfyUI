@@ -1,0 +1,14 @@
+[project]
+name = "readcsv_comfyui"
+description = "NODES: ReadCSVRowNode"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/Arkanun/ReadCSV_ComfyUI"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ReadCSV_ComfyUI"
+Icon = ""
